@@ -1,0 +1,40 @@
+.quote-generator {
+    text-align: center;
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+  }
+  
+  .quote-container {
+    background-color: #f2f2f2;
+    padding: 1.5rem;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+    width: 80%;
+  }
+  
+  .quote-text {
+    font-size: 1.5rem;
+    line-height: 1.5;
+  }
+  
+  .quote-author {
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  
+  .new-quote-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  
+  .new-quote-button:hover {
+    background-color: #0056b3;
+  }
+  
